@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankita-rustagi
-- 👀 I’m interested in angular and java.
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ankitarustagi17@gail.com
